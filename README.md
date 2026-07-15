@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30066449/README.md)
 <div align="center">
 
 # UderTouch
@@ -8,7 +7,7 @@
 <br />
 
 <!-- Recommended Hero Image Dimensions: 1200x630 (Minimalist black background) -->
-<img src="https://via.placeholder.com/1200x400/000000/FFFFFF?text=Every+unused+device+deserves+a+second+life." alt="UderTouch Hero" width="100%" />
+<img src="https://placehold.co/1200x400/000000/FFFFFF.png?text=Every+unused+device+deserves+a+second+life." alt="UderTouch Hero" width="100%" />
 
 </div>
 
